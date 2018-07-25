@@ -1,0 +1,18 @@
+import * as React from 'react';
+import { translate } from 'react-i18next';
+import { withStyles } from '@material-ui/core/styles';
+import styles from './styles';
+
+export interface {{ name }}Props {
+}
+
+class {{ name }} extends React.Component<{{ name }}Props, {}> {
+  static defaultProps = {
+  };
+
+  render() {
+    return (<div></div>);
+  }
+}
+
+export default withStyles(styles, { withTheme: true })(translate()({{ name }}Component));
