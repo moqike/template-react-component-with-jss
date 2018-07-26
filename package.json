@@ -1,6 +1,6 @@
 {
   "name": "mqk-template-react-component-with-jss",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "template-react-component-with-jss",
   "main": "index.js",
   "scripts": {
